@@ -156,13 +156,15 @@ Performance analysis and production infrastructure
 
 AI systems with deterministic tools, controlled permissions, and human oversight
 
-GitHub activity
+## GitHub activity
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Gharbain&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Abdullah's GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gharbain&layout=compact&langs_count=10&theme=github_dark&hide_border=true" alt="Languages in Abdullah's public GitHub repositories" />
+  <img width="760" src="https://streak-stats.demolab.com?user=Gharbain&theme=dark&hide_border=true" alt="Abdullah's GitHub contribution streak" />
 </p>
 
+<p align="center">
+  <sub>Public GitHub activity represents only part of my professional engineering work.</sub>
+</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Gharbain&theme=dark&hide_border=true" alt="Abdullah's GitHub contribution streak" />
 </p>

@@ -162,13 +162,6 @@ AI systems with deterministic tools, controlled permissions, and human oversight
   <img width="760" src="https://streak-stats.demolab.com?user=Gharbain&theme=dark&hide_border=true" alt="Abdullah's GitHub contribution streak" />
 </p>
 
-<p align="center">
-  <sub>Public GitHub activity represents only part of my professional engineering work.</sub>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Gharbain&theme=dark&hide_border=true" alt="Abdullah's GitHub contribution streak" />
-</p>
-
 <p align="center"><sub>These cards reflect public GitHub activity. Much of my professional systems work is not represented by public repository statistics.</sub></p>
 
 Some engineers specialize in what users see. I'm strongest in the systems that make everything behind that interface work.

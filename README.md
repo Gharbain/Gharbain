@@ -4,13 +4,13 @@ Backend & Systems Engineer
 
 I build software from the inside out—from embedded code, Assembly, and binary data to backend services, databases, infrastructure, and the applications built on top of them.
 
-I am strongest where software has real state, hard constraints, and no room for vague behavior.
+I'm strongest where software has real state, hard constraints, and no room for vague behavior.
 
 About me
 
 I have been programming since 2010. Over the years, I have worked at very different levels of the stack, but backend and systems engineering have always been the center of gravity.
 
-My professional work takes me close to the machine. I work with deeply embedded systems, Assembly language, binary representations, and binary-level debugging. I am comfortable investigating what software is actually doing at the byte level instead of stopping at the nearest abstraction.
+My professional work takes me close to the machine. I work with deeply embedded systems, Assembly language, binary representations, and binary-level debugging. I'm comfortable investigating what software is actually doing at the byte level instead of stopping at the nearest abstraction.
 
 I have also built substantial backend software with Rust, C, Java, SQL, PostgreSQL, and Redis. That experience includes transactional workflows, stateful services, authentication and authorization, realtime communication, data modeling, multi-tenant boundaries, and infrastructure that supports production applications.
 
@@ -76,21 +76,19 @@ Application development
 
 TypeScript, JavaScript, React, and Next.js
 
-React Native and Expo for iOS and Android
+React Native CLI and Expo for iOS and Android
 
-Swift, SwiftUI, and native iOS development
+Swift and Kotlin for native mobile development
 
 Tauri desktop applications
 
 Responsive phone and tablet implementation
 
-Localization, RTL behavior, forms, client state, and API integration
-
 Full stack, with an honest center of gravity
 
 I can take a feature from the database and backend rules through the API and into a working mobile, web, or desktop application. That end-to-end ability is useful because I understand how decisions in one layer affect every other layer.
 
-My weaker area is frontend visual design—especially UI/UX. I can implement functional, responsive interfaces and work through complex client behavior, but I do not present myself as a specialist product designer. When visual polish matters, I work best with a strong design direction, a consistent design system, and honest feedback.
+My weaker area is frontend visual design, especially UI/UX. I can implement functional, responsive interfaces and work through complex client behavior, but I do not present myself as a specialist product designer. When visual polish matters, I work best with a strong design direction, a consistent design system, and honest feedback.
 
 That is not where I try to compete. My best work is behind the interface: architecture, backend behavior, data, security, protocols, infrastructure, and the difficult bugs that require understanding the whole system.
 
@@ -144,15 +142,15 @@ I do not measure engineering by the number of frameworks in a stack. I care abou
 
 Areas I continue to deepen
 
-Rust for backend and systems programming
+Rust/java and PostgreSQL for backend and systems programming
 
 Distributed systems and service coordination
 
-Embedded and low-level software
+C programming/Rust for embedded and low-level software
 
-Database internals and high-integrity transaction design
+Database internals and high-integrity transaction design -> SQL/MongoDB/MariaDB
 
-Applied security and cryptographic systems
+Applied security and cryptographic systems -> with C programming only
 
 Performance analysis and production infrastructure
 
@@ -171,4 +169,4 @@ GitHub activity
 
 <p align="center"><sub>These cards reflect public GitHub activity. Much of my professional systems work is not represented by public repository statistics.</sub></p>
 
-Some engineers specialize in what users see. I am strongest in the systems that make everything behind that interface work.
+Some engineers specialize in what users see. I'm strongest in the systems that make everything behind that interface work.
